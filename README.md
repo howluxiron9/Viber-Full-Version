@@ -242,4 +242,4 @@ This repository serves as the official landing page for Viber. The software is d
 **Get the most recent version of Viber today!**
 
 ---
-**Last updated:** 2026-09-16 22:41:00 UTC
+**Last updated:** 2026-09-17 01:06:45 UTC
